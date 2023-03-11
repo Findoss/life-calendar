@@ -1,3 +1,3 @@
-# Life-calendar
+# life-calendar
 
-Безисходность рядом
+Hopelessness nearby
